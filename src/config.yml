@@ -1,0 +1,12 @@
+# TNTFILL CONFIG
+# CREATED BY ADMETUSTHEGREAT
+
+x-int: 10
+y-int: 10
+z-int: 10
+
+permission-node: 'tntfill.allow'
+no-dispensers: '&cNo dispensers nearby!'
+filled-dispensers: '&aYou filled all nearby dispensers with TnT'
+no-tnt: '&cYou have no TnT in your inventory!'
+no-permission: '&cYou do not have permission to execute this command'

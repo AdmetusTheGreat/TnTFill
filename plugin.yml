@@ -1,0 +1,7 @@
+name: TnTFill
+version: 1.0
+main: me.admetusthegreat.tntfill.Main
+description: Evenly spread your TnT with 1 command to all dispensers!
+commands:
+  tntfill:
+    description: Executes tnt spread
